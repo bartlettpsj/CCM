@@ -1,0 +1,37 @@
+# Compiled output
+dist/
+build/
+
+# Dependencies
+node_modules/
+
+# IDEs and editors
+.vscode/
+*.suo
+*.njsproj
+*.sln
+
+# Logs and temp files
+*.log
+tmp/
+temp/
+
+# System files
+.DS_Store
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Optional: Coverage data
+coverage/
+
+# Optional: Test results
+test-results/
+
+# Optional: Yarn specific
+.pnp
+.pnp.meta
+yarn.lock
+

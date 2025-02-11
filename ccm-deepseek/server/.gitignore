@@ -1,0 +1,65 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# Package file
+*.jar
+*.war
+*.ear
+
+# Temporary files created by developers
+*.bak
+*.swp
+*~.nib
+*.iws
+*.ipr
+*.iml
+*.swo
+.DS_Store
+.classpath
+.project
+.settings/
+
+# Maven target directory
+/target/
+
+# IntelliJ files
+.idea/
+*.ipr
+*.iws
+*.iml
+*.idea/workspace.xml
+*.idea/tasks.xml
+*.idea/dataSources.local.xml
+*.idea/dataSources/
+*.idea/copyright/profiles_settings.xml
+*.idea/compiler.xml
+
+# Eclipse files
+.apt_generated
+.cache
+.recommenders
+.settings/
+.springBeans
+.sts4-cache
+
+# NetBeans files
+/nbproject/private/
+/build/
+/dist/
+/nbdist/
+/.netbeans/
+
+# Gradle files
+.gradle
+/build
+
+# Spring Boot restart
+spring-boot-restart/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
